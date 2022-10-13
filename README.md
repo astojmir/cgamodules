@@ -120,3 +120,8 @@ $ make modnets
 **License:** The code has been placed into public domain.
 **Author:** Aleksandar Stojmirovic <astojmir@its.jnj.com>
 **Author:** Patrick Kimes <patrick.kimes@gmail.com>
+
+## Publications
+VanDussen KL, Stojmirović A, Li K, Liu TC, Kimes PK, Muegge BD, Simpson KF, Ciorba MA, Perrigoue JG, Friedman JR, Towne JE, Head RD, Stappenbeck TS. Abnormal Small Intestinal Epithelial Microvilli in Patients With Crohn's Disease. Gastroenterology. 2018 Sep;155(3):815-828. doi: 10.1053/j.gastro.2018.05.028. Epub 2018 May 18. PMID: 29782846; PMCID: PMC6378688.
+
+
